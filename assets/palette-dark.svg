@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="332" viewBox="0 0 880 332" role="img" aria-label="Color palette, DARK theme">
+  <rect width="880" height="332" fill="#1a1c19"/>
+  <rect x="16" y="16" width="848" height="300" rx="10" fill="#23251f" stroke="#3a3c35" stroke-width="1"/>
+  <text x="36" y="52" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#e5dfd3" letter-spacing="2">PALETTE &#183; DARK</text>
+  <line x1="36" y1="66" x2="844" y2="66" stroke="#3a3c35" stroke-width="1"/>
+  <text x="36" y="111" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9c968b">accent</text>
+  <rect x="200" y="86" width="64" height="40" rx="4" fill="#f7ded4" stroke="#3a3c35" stroke-width="1"/>
+  <text x="232" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#f7ded4</text>
+  <rect x="270" y="86" width="64" height="40" rx="4" fill="#ecc0b2" stroke="#3a3c35" stroke-width="1"/>
+  <text x="302" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#ecc0b2</text>
+  <rect x="340" y="86" width="64" height="40" rx="4" fill="#e0a291" stroke="#3a3c35" stroke-width="1"/>
+  <text x="372" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#e0a291</text>
+  <rect x="410" y="86" width="64" height="40" rx="4" fill="#d47a5e" stroke="#3a3c35" stroke-width="1"/>
+  <text x="442" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#d47a5e</text>
+  <rect x="480" y="86" width="64" height="40" rx="4" fill="#c85a3c" stroke="#3a3c35" stroke-width="1"/>
+  <text x="512" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#c85a3c</text>
+  <rect x="550" y="86" width="64" height="40" rx="4" fill="#a8482f" stroke="#3a3c35" stroke-width="1"/>
+  <text x="582" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#a8482f</text>
+  <rect x="620" y="86" width="64" height="40" rx="4" fill="#7f3623" stroke="#3a3c35" stroke-width="1"/>
+  <text x="652" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#7f3623</text>
+  <rect x="690" y="86" width="64" height="40" rx="4" fill="#55251a" stroke="#3a3c35" stroke-width="1"/>
+  <text x="722" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#55251a</text>
+  <rect x="760" y="86" width="64" height="40" rx="4" fill="#3b201a" stroke="#3a3c35" stroke-width="1"/>
+  <text x="792" y="140" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#3b201a</text>
+  <text x="36" y="191" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9c968b">accent-2</text>
+  <rect x="200" y="166" width="64" height="40" rx="4" fill="#f9ecd8" stroke="#3a3c35" stroke-width="1"/>
+  <text x="232" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#f9ecd8</text>
+  <rect x="270" y="166" width="64" height="40" rx="4" fill="#f0d6ae" stroke="#3a3c35" stroke-width="1"/>
+  <text x="302" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#f0d6ae</text>
+  <rect x="340" y="166" width="64" height="40" rx="4" fill="#e6bd85" stroke="#3a3c35" stroke-width="1"/>
+  <text x="372" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#e6bd85</text>
+  <rect x="410" y="166" width="64" height="40" rx="4" fill="#d9a05b" stroke="#3a3c35" stroke-width="1"/>
+  <text x="442" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#d9a05b</text>
+  <rect x="480" y="166" width="64" height="40" rx="4" fill="#c08745" stroke="#3a3c35" stroke-width="1"/>
+  <text x="512" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#c08745</text>
+  <rect x="550" y="166" width="64" height="40" rx="4" fill="#9a6b36" stroke="#3a3c35" stroke-width="1"/>
+  <text x="582" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#9a6b36</text>
+  <rect x="620" y="166" width="64" height="40" rx="4" fill="#715029" stroke="#3a3c35" stroke-width="1"/>
+  <text x="652" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#715029</text>
+  <rect x="690" y="166" width="64" height="40" rx="4" fill="#4c371d" stroke="#3a3c35" stroke-width="1"/>
+  <text x="722" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#4c371d</text>
+  <rect x="760" y="166" width="64" height="40" rx="4" fill="#322616" stroke="#3a3c35" stroke-width="1"/>
+  <text x="792" y="220" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#322616</text>
+  <text x="36" y="271" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9c968b">base</text>
+  <text x="232" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">bg</text>
+  <rect x="200" y="246" width="64" height="40" rx="4" fill="#1a1c19" stroke="#3a3c35" stroke-width="1"/>
+  <text x="232" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#1a1c19</text>
+  <text x="302" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">surface</text>
+  <rect x="270" y="246" width="64" height="40" rx="4" fill="#23251f" stroke="#3a3c35" stroke-width="1"/>
+  <text x="302" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#23251f</text>
+  <text x="372" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">text</text>
+  <rect x="340" y="246" width="64" height="40" rx="4" fill="#e5dfd3" stroke="#3a3c35" stroke-width="1"/>
+  <text x="372" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#e5dfd3</text>
+  <text x="442" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">muted</text>
+  <rect x="410" y="246" width="64" height="40" rx="4" fill="#9c968b" stroke="#3a3c35" stroke-width="1"/>
+  <text x="442" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#9c968b</text>
+  <text x="512" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">section</text>
+  <rect x="480" y="246" width="64" height="40" rx="4" fill="#2b3d31" stroke="#3a3c35" stroke-width="1"/>
+  <text x="512" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#2b3d31</text>
+  <text x="582" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">chakra</text>
+  <rect x="550" y="246" width="64" height="40" rx="4" fill="#f08a3c" stroke="#3a3c35" stroke-width="1"/>
+  <text x="582" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#f08a3c</text>
+  <text x="652" y="240" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">leaf</text>
+  <rect x="620" y="246" width="64" height="40" rx="4" fill="#8fb89a" stroke="#3a3c35" stroke-width="1"/>
+  <text x="652" y="300" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#9c968b" text-anchor="middle">#8fb89a</text>
+</svg>
