@@ -26,12 +26,12 @@
   <text x="180" y="296" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5dfd3">Caveo &#183; backend (hybrid)</text>
   <text x="44" y="324" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#9c968b">status</text>
   <text x="180" y="324" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#e5dfd3">active duty &#183; open to interesting missions</text>
-  <rect x="44" y="360" width="63" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
-  <text x="54" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">Elixir</text>
-  <rect x="117" y="360" width="92" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
-  <text x="127" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">TypeScript</text>
-  <rect x="219" y="360" width="70" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
-  <text x="229" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">Node.js</text>
+  <rect x="44" y="360" width="92" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
+  <text x="54" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">TypeScript</text>
+  <rect x="146" y="360" width="70" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
+  <text x="156" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">Node.js</text>
+  <rect x="226" y="360" width="63" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
+  <text x="236" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">Elixir</text>
   <rect x="299" y="360" width="92" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
   <text x="309" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#d9a05b">PostgreSQL</text>
   <rect x="401" y="360" width="70" height="24" rx="4" fill="none" stroke="#d9a05b" stroke-width="1"/>
