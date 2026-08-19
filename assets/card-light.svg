@@ -30,13 +30,17 @@
   <text x="54" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">Elixir</text>
   <rect x="117" y="360" width="92" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
   <text x="127" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">TypeScript</text>
-  <rect x="219" y="360" width="78" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <rect x="219" y="360" width="70" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
   <text x="229" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">Node.js</text>
-  <rect x="307" y="360" width="92" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
-  <text x="317" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">PostgreSQL</text>
-  <rect x="409" y="360" width="42" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
-  <text x="419" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">AWS</text>
-  <rect x="461" y="360" width="42" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
-  <text x="471" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">N8N</text>
-  <text x="836" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#7d7a6a" text-anchor="end" letter-spacing="1">JUTSU REGISTRY &#183; LIGHT</text>
+  <rect x="299" y="360" width="92" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <text x="309" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">PostgreSQL</text>
+  <rect x="401" y="360" width="70" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <text x="411" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">MongoDB</text>
+  <rect x="481" y="360" width="41" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <text x="491" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">AWS</text>
+  <rect x="532" y="360" width="70" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <text x="542" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">Flutter</text>
+  <rect x="612" y="360" width="41" height="24" rx="4" fill="none" stroke="#b3813e" stroke-width="1"/>
+  <text x="622" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#b3813e">N8N</text>
+  <text x="836" y="376" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#7d7a6a" text-anchor="end" letter-spacing="1">JUTSU REGISTRY</text>
 </svg>
