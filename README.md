@@ -28,8 +28,8 @@
 
 | target | | jutsu |
 | :--- | :--- | ---: |
-| **[Katu](https://github.com/simaojunior/katu)** | Terminal multiplexer with first-class AI context. | `Rust` `open source` |
 | **[Lumoki](https://lumoki.app)** | Mental health companion app. No streak guilt. | `TypeScript` `Expo` |
+| **[Katu](https://github.com/simaojunior/katu)** | Terminal multiplexer with first-class AI context. | `Rust` `open source` |
 | **Traduzar** | Video transcription for professional translators. | `Phoenix` `Whisper` |
 | **GrãoFin** | Personal finance on the 50/30/20 method. | `Phoenix` `SvelteKit` |
 
