@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simaojunior/simaojunior/main/assets/card-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simaojunior/simaojunior/main/assets/card-light.svg">
-  <img alt="Ninja registration card: Simao Junior, A-RANK, Jonin backend, Sao Paulo BR, UTC-3, open to interesting missions" src="https://raw.githubusercontent.com/simaojunior/simaojunior/main/assets/card-dark.svg" width="880">
+  <img alt="Ninja registration card: Simao Junior, A-RANK, Jonin backend, Sao Paulo BR, UTC-3. Affinity: onboarding and KYC systems, LLM document classification, event-driven architecture. Stack: Elixir, TypeScript, Node.js, PostgreSQL, MongoDB, AWS, Flutter, N8N" src="https://raw.githubusercontent.com/simaojunior/simaojunior/main/assets/card-dark.svg" width="880">
 </picture>
 
 [`simaojunior.dev`](https://simaojunior.dev) &nbsp;·&nbsp; [`scrolls`](https://simaojunior.dev/#writing) &nbsp;·&nbsp; [`til`](https://simaojunior.dev/til) &nbsp;·&nbsp; [`uses`](https://simaojunior.dev/uses) &nbsp;·&nbsp; [`cv`](https://simaojunior.dev/cv)
