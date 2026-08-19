@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="ACADEMY RECORD">
-  <text x="0" y="20" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f08a3c">&#10022;</text>
-  <text x="22" y="20" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#c85a3c" letter-spacing="2.5">ACADEMY RECORD</text>
-  <text x="878" y="20" font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9c968b" text-anchor="end">2018 &#8594; now</text>
-  <line x1="0" y1="32" x2="880" y2="32" stroke="#3a3c35" stroke-width="1"/>
-  <line x1="0" y1="32" x2="120" y2="32" stroke="#c85a3c" stroke-width="2"/>
-</svg>
