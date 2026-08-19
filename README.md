@@ -156,7 +156,7 @@ The same tokens `simaojunior.dev` ships. Two themes, one accent ramp.
 
 `HAND CODED` `NO BUILD STEP` `RSS, YES REALLY` `TEAM 7 FOREVER` `BEST VIEWED IN ANY BROWSER`
 
-[`website`](https://simaojunior.dev) &nbsp;·&nbsp; [`github`](https://github.com/simaojunior) &nbsp;·&nbsp; [`send a summon`](https://simaojunior.dev/#about)
+[`website`](https://simaojunior.dev) &nbsp;·&nbsp; [`github`](https://github.com/simaojunior) &nbsp;·&nbsp; [`bluesky`](https://bsky.app/profile/simaojunior.programmer.blue) &nbsp;·&nbsp; [`send a summon`](https://simaojunior.dev/#about)
 
 <sub>no cookies, no trackers, no popups</sub>
 
